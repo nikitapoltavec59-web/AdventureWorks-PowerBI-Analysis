@@ -1,6 +1,7 @@
 #  AdventureWorks: Sales & Profitability Power BI Dashboard
 
-![Dashboard Preview](screenshots/dashboard_main.png)
+![Dashboard Preview](<img width="982" height="553" alt="image" src="https://github.com/user-attachments/assets/c9ff6f86-376f-49b1-ad46-338debe19f3d" />
+)
 
 ##  Executive Summary
 An interactive analytical dashboard built for **AdventureWorks** leadership to monitor key financial performance indicators, analyze geographical sales distribution, and track product category profitability across 2015–2017[cite: 1, 2].
@@ -15,7 +16,7 @@ An interactive analytical dashboard built for **AdventureWorks** leadership to m
 
 ---
 
-## 🛠 Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 * **BI Tool:** Power BI Desktop
 * **Data Modeling:** Star Schema Design[cite: 1, 2]
